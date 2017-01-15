@@ -3,6 +3,7 @@
 int function1(int *argA){
 	*argA = *argA + 1;
   *argA = *argA + 1;
+  *argA = *argA + 1;
 }
 
 
