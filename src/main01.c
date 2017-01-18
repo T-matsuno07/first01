@@ -10,6 +10,7 @@ int function1(int *argA){
 
 int function2(int *argB){
   *argB = *argB + 1;
+  *argB = *argB + 1;
 }
 
 int main(void){
